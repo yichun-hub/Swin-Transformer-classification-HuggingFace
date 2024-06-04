@@ -26,8 +26,8 @@ For more details, please see my Medium.
 Ensure all dependencies are installed using Python's pip package installer:
 
 ```bash
-pip install torch torchvision transformers pillow
+pip install torch torchvision transformers pillow```
 
 Or
 
-Executing the code in Google Colab. The original version: Fine-tuning for Image Classification with 🤗 Transformers [!https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/image_classification_albumentations.ipynb]
+Executing the code in Google Colab. The original version: [Fine-tuning for Image Classification with 🤗 Transformers](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/image_classification_albumentations.ipynb)
