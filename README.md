@@ -13,7 +13,8 @@ The project is structured into three main sections:
 
 This setup not only showcases the integration of cutting-edge machine learning models with practical applications but also provides an accessible way for beginners and intermediate developers to understand and deploy image classification models.
 
-For more details, please see my Medium.
+For more details, please see my [Medium](https://medium.com/@fearless_fusion_snake_755/%E4%BD%BF%E7%94%A8huggingface-%E5%AF%A6%E4%BD%9C-swin-transformer-87380f6e41bc).
+
 The pretrained model and trained weight can click this [link](https://drive.google.com/drive/u/1/folders/15iXi7MSfoBlTv8j4ZHaMUaHpujGsUiWr).
 
 ## Getting Started
