@@ -14,6 +14,7 @@ The project is structured into three main sections:
 This setup not only showcases the integration of cutting-edge machine learning models with practical applications but also provides an accessible way for beginners and intermediate developers to understand and deploy image classification models.
 
 For more details, please see my Medium.
+The pretrained model and trained weight can click this [link](https://drive.google.com/drive/u/1/folders/15iXi7MSfoBlTv8j4ZHaMUaHpujGsUiWr).
 
 ## Getting Started
 
